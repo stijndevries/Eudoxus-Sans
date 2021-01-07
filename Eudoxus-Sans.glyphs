@@ -2,7 +2,8 @@
 .appVersion = "3039";
 DisplayStrings = (
 i,
-j
+j,
+t
 );
 classes = (
 {
@@ -44238,7 +44239,7 @@ unicode = 00DF;
 {
 color = 4;
 glyphname = t;
-lastChange = "2020-12-04 06:48:08 +0000";
+lastChange = "2021-01-07 21:45:19 +0000";
 layers = (
 {
 anchors = (
@@ -44278,8 +44279,8 @@ nodes = (
 "325 461 LINE",
 "325 536 LINE",
 "207 536 LINE",
-"207 660 LINE",
-"132 660 LINE",
+"207 670 LINE",
+"132 670 LINE",
 "132 615 LINE SMOOTH",
 "132 569 OFFCURVE",
 "103 536 OFFCURVE",
@@ -44334,8 +44335,8 @@ nodes = (
 "388 416 LINE",
 "388 546 LINE",
 "260 546 LINE",
-"260 670 LINE",
-"110 670 LINE",
+"260 690 LINE",
+"110 690 LINE",
 "110 630 LINE SMOOTH",
 "110 574 OFFCURVE",
 "79 546 OFFCURVE",
